@@ -2,7 +2,7 @@
 
 int main() {
     // Dados fixos das cidades (para facilitar o teste)
-    char estado1[] = "PE";
+    char estado1[] = "P";
     char codigo1[] = "PE01";
     char nomeCidade1[] = "Recife";
     int populacao1 = 1653461;          // População aproximada
@@ -10,7 +10,7 @@ int main() {
     float pib1 = 88.0;                // PIB em bilhões de reais
     int pontosTuristicos1 = 25;
 
-    char estado2[] = "MA";
+    char estado2[] = "M";
     char codigo2[] = "MA01";
     char nomeCidade2[] = "São Luís";
     int populacao2 = 1108975;
